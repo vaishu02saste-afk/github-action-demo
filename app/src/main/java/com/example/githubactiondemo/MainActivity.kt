@@ -44,4 +44,11 @@ fun GreetingPreview() {
     GithubActionDemoTheme {
         Greeting("Android")
     }
+    Text(
+        text = "Hello Android!"
+    )
+
+    Text(
+        text = "GitHub Actions Demo"
+    )
 }
